@@ -1,0 +1,6 @@
+@SmsRateLimitingServiceUsingTwilio_HostAddress = http://localhost:5033
+
+GET {{SmsRateLimitingServiceUsingTwilio_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
